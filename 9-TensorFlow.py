@@ -2,8 +2,8 @@ import numpy as np
 import math
 import h5py
 import matplotlib.pyplot as plt
-# import tensorflow as tf
-# from tensowflow.python.framework import ops
+import tensorflow as tf
+from tensorflow.python.framework import ops
 
 np.random.seed(1)
 
